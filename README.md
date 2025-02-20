@@ -4,8 +4,8 @@
 <img align="right" alt="coding" width="400" src="https://www.hugp.com/research/assets/img/gif/pc.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan-kumar345&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-kumar345" /> </p>
 - 😊   I'm currently learning Software testing  
-- 📫   How to reach me **bhupinderkumar.7320@gmail.com**
-- ⚡ **become hacker😁**
+- 📫   How to reach me **bhupinderkumar.7320@gmail.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
