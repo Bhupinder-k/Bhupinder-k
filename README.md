@@ -3,10 +3,16 @@
 <h3 align="center">I have done Bacholer of Coumputer Science</h3>
 <img align="right" alt="coding" width="400" src="https://www.hugp.com/research/assets/img/gif/pc.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan-kumar345&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-kumar345" /> </p>
-- 😊   I'm currently learning Software testing  
-- 📫   How to reach me **bhupinderkumar.7320@gmail.com
 
+- 😀   welcome to my profile
+- 😊   I have knowledge about software testing,java,SQl,salenium tool  
+- 🤝   I'm looking for help to protect our country from Defected software
+- 🔼   subscribe  to my [YouTube channel](https://www.youtube.com) because I upload new videos whenever I feel like it. 
+- 📫   How to reach me **bhupinderkumar.7320@gmail.com**
+- ⚡   overall believes to grow in professional and personal way
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/bhupinder_84902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/chandan14931576" height="30" width="40" /></a>
