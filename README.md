@@ -7,7 +7,7 @@
 - 😀   welcome to my profile
 - 😊   I have knowledge about software testing,java,SQl,salenium tool  
 - 🤝   I'm looking for help to protect our country from Defected software
-- 🔼   subscribe  to my [YouTube channel](https://www.youtube.com) because I upload new videos whenever I feel like it. 
+- 🔼   subscribe  to my [YouTube channel](https://WWW.youtube.com@BhupinderKumar-7320) because I upload new videos whenever I feel like it. 
 - 📫   How to reach me **bhupinderkumar.7320@gmail.com**
 - ⚡   overall believes to grow in professional and personal way
 
